@@ -18,7 +18,7 @@ We will be designing a system with the following requirements:
 9. Users should be able to pay through a credit limit to be set when the user account is created.
 11. User and Admin should be able to view the history of products ordered
 ## Use case Diagram
-### We have four main Actors in our system
+### We have Three main Actors in our system
 * **_Admin_** is mainly responsible for account management and adding or modifying new product categories for selling.
 * **_Guest_** can search the catalog, add/remove items to the shopping cart, as well as become registered members.
 * **_Member_** can perform all the activities that guests can, in addition to which, they can place orders
